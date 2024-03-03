@@ -1,1 +1,1 @@
-# git_prune
+# This is Git Collaborator 
